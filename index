@@ -1,3 +1,0 @@
-git add fretelog.html
-git commit -m "v53: melhoria extração PDF, fixes CNH, reordem relatório"
-git push
